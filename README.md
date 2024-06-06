@@ -1,16 +1,16 @@
-## Hi there 👋
+## Boas vindas ao meu perfil 🖤
 
-<!--
-**Isabonfim10/Isabonfim10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é **Isadora Bonfim dos Reis**
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organizaçao e compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Você entrar em contato comigo 📫
+
+Email: bonfimdosreisisadora@gmail.com
+
+Instagram: **@isa.reiiss**
+
+![](https://media1.tenor.com/m/oVqjhn9WWV0AAAAd/cool-fun.gif)
+
